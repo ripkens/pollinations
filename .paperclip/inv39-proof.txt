@@ -1,0 +1,4 @@
+INV-39 write-path proof
+run: be9afda4-4c23-4f94-b811-099772022f80
+utc: 2026-09-28T02:59:31Z
+identity: ripkens via /usr/local/bin/gh wrapper
